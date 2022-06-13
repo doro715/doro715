@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @doro715
-- 👀 I’m interested in front-end right now. 
-- 🌱 I’m currently learning python on Udemy. 
-- 💞️ I’m looking to collaborate on others to build up exciting projects. 
+- 👀 I’m interested in front-end programming right now. 
+- 🌱 I’m currently learning web developmentpython on Udemy. 
+- 💞️ I’m looking to build up exciting projects. 
 - 📫 How to reach me: dorothyzwl@hotmail.com
 
 <!---
